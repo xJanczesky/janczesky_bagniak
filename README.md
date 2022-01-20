@@ -1,4 +1,4 @@
-Jak wystartować skrypt
+## Jak wystartować skrypt ##
 Wejść w server.cfg i napisać ensure janczesky_dane_graczy
 
 W Recoil.lua od linijki 405 do 462 jest recoil jaki ma byc przed bagniakiem a od 500 do 556 recoil jaki bedzie po BAGNIAKA
